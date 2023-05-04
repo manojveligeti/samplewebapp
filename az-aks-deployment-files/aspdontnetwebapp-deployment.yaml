@@ -22,4 +22,4 @@ spec:
     spec:
       containers:
         - name: aspdotnetwebpp-container
-          image: 'calphaacr.azurecr.io/aspdotnetwebapp:latest'  # ACR
+          image: 'acrtwo.azurecr.io/imageone:latest'  # ACR
